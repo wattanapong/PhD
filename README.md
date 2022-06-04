@@ -16,6 +16,10 @@
 
 [International Journal of Pattern Recognition and Artificial Intelligence]:<https://www.worldscientific.com/worldscinet/ijprai>
 
+[Applied Intelligence]:<https://www.springer.com/journal/10489/aims-and-scope>
+
+
+
 [Data and Knowledge Engineering ]: <https://www.journals.elsevier.com/data-and-knowledge-engineering>
 
-[Applied Intelligence] : <https://www.springer.com/journal/10489/aims-and-scope>
+
