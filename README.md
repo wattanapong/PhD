@@ -1,15 +1,19 @@
 # Journal List
 ## Artificial Intelligence 
-- [IEEE Transactions on Neural Networks and learning systems] Type B (scopus rank 99%)
-- [Journal of Visual Communication and Image Representation] Type C
-- [Neurocomputing] Type C
-- [International Journal of Pattern Recognition and Artificial Intelligence] Type C in Singapore (letpub:3 months)
-- [Applied Intelligence] Type C in Netherland (letpub:6 months)
+- [List AI articles] rated by scopus
+- [IEEE Transactions on Neural Networks and learning systems] CCF-B (Q1,scopus#8)
+- [Journal of Visual Communication and Image Representation] CCF-C (Q1-Q2)
+- [Neurocomputing] CCF-C (Q1,scopus#30) (8 months, 1st revision 6 months, accepted 4 months)
+- [International Journal of Pattern Recognition and Artificial Intelligence] CCF-C in Singapore (letpub:3 months)
+- [Applied Intelligence] CCF-C in Netherland (letpub:6 months)
+- [Information Sciences] CCF-B (Q1, scopus#24)
 
 ## Database and Data Mining
-- [Data and Knowledge Engineering] (DKE) Type B 
+- [Data and Knowledge Engineering] (DKE) CCF-B 
 
 [//]: # (Reference Set)
+
+- [List AI articles]:<https://www.scopus.com/sourceid/24807#tabs=1>
 
 [Journal of Visual Communication and Image Representation]:<https://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation>
 
