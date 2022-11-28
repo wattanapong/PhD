@@ -8,8 +8,13 @@
 - [Applied Intelligence] CCF-C in Netherland (letpub:6 months)
 - [Information Sciences] CCF-B (Q1, scopus#24)
 
+## Education
+- [International Journal of Emerging Technologies in Learning] Miscellaneous Engineering Q1
+
 ## Database and Data Mining
 - [Data and Knowledge Engineering] (DKE) CCF-B 
+
+
 
 [//]: # (Reference Set)
 
@@ -25,7 +30,7 @@
 
 [Applied Intelligence]:<https://www.springer.com/journal/10489/aims-and-scope>
 
-
+[International Journal of Emerging Technologies in Learning]:<https://online-journals.org/index.php/i-jet/index>
 
 [Data and Knowledge Engineering ]: <https://www.journals.elsevier.com/data-and-knowledge-engineering>
 
