@@ -7,18 +7,19 @@
 - [International Journal of Pattern Recognition and Artificial Intelligence] CCF-C in Singapore (letpub:3 months)
 - [Applied Intelligence] CCF-C in Netherland (letpub:6 months)
 - [Information Sciences] CCF-B (Q1, scopus#24)
+- [Artificial Intelligence in Medicine] CCF-C (Q1, scopus#29]
 
 ## Education
 - [International Journal of Emerging Technologies in Learning] Miscellaneous Engineering Q1
 
 ## Database and Data Mining
-- [Data and Knowledge Engineering] (DKE) CCF-B 
+- [Data and Knowledge Engineering] (DKE) CCF-B
 
 
 
 [//]: # (Reference Set)
 
-- [List AI articles]:<https://www.scopus.com/sourceid/24807#tabs=1>
+[List AI articles]:<https://www.scopus.com/sourceid/24807#tabs=1>
 
 [Journal of Visual Communication and Image Representation]:<https://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation>
 
@@ -32,6 +33,11 @@
 
 [International Journal of Emerging Technologies in Learning]:<https://online-journals.org/index.php/i-jet/index>
 
+[Information Sciences]:<https://www.sciencedirect.com/journal/information-sciences>
+
 [Data and Knowledge Engineering ]: <https://www.journals.elsevier.com/data-and-knowledge-engineering>
+
+[Artificial Intelligence in Medicine]: <https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine>
+
 
 
