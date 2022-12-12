@@ -3,7 +3,8 @@
 - [List AI articles] rated by scopus
 - [IEEE Transactions on Neural Networks and learning systems] CCF-B (Q1,scopus#8)
 - [Journal of Visual Communication and Image Representation] CCF-C (Q1-Q2)
-- [Neurocomputing] CCF-C (Q1,scopus#30) (8 months, 1st revision 6 months, accepted 4 months)
+- [Neurocomputing] CCF-C (Q1,scopus#30AI) (8 months, 1st revision 6 months, accepted 4 months)
+- [Image and Vision Computing] CCF-C (Q1,scopus#24CVPR) (letpub:10 months)
 - [International Journal of Pattern Recognition and Artificial Intelligence] CCF-C in Singapore (letpub:3 months)
 - [Applied Intelligence] CCF-C in Netherland (letpub:6 months)
 - [Information Sciences] CCF-B (Q1, scopus#24)
@@ -26,6 +27,8 @@
  [IEEE Transactions on Neural Networks and learning systems]:<https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385>
 
 [Neurocomputing]:<https://www.journals.elsevier.com/neurocomputing>
+
+[Image and Vision Computing]:<https://www.sciencedirect.com/journal/image-and-vision-computing>
 
 [International Journal of Pattern Recognition and Artificial Intelligence]:<https://www.worldscientific.com/worldscinet/ijprai>
 
