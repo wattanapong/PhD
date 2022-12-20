@@ -16,7 +16,9 @@
 ## Database and Data Mining
 - [Data and Knowledge Engineering] (DKE) CCF-B
 
-
+## General Computer Science
+- [Computers and Electrical Engineering] Q1
+- 
 
 [//]: # (Reference Set)
 
@@ -41,6 +43,8 @@
 [Data and Knowledge Engineering ]: <https://www.journals.elsevier.com/data-and-knowledge-engineering>
 
 [Artificial Intelligence in Medicine]: <https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine>
+
+[Computers and Electrical Engineering]: <https://www.sciencedirect.com/journal/computers-and-electrical-engineering>
 
 
 
