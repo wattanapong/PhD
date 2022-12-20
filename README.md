@@ -18,7 +18,9 @@
 
 ## General Computer Science
 - [Computers and Electrical Engineering] Q1
-- 
+
+## Agriculture
+- [Computers and Electronics in Agriculture] Q1
 
 [//]: # (Reference Set)
 
@@ -46,5 +48,5 @@
 
 [Computers and Electrical Engineering]: <https://www.sciencedirect.com/journal/computers-and-electrical-engineering>
 
-
+[Computers and Electronics in Agriculture]: <https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture>
 
