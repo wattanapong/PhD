@@ -9,6 +9,7 @@
 - [Applied Intelligence] CCF-C in Netherland (letpub:6 months)
 - [Information Sciences] CCF-B (Q1, scopus#24)
 - [Artificial Intelligence in Medicine] CCF-C (Q1, scopus#29]
+- [Multimedia Tools and Applications] CCF-C (Q1, scopus#94)
 
 ## Education
 - [International Journal of Emerging Technologies in Learning] Miscellaneous Engineering Q1
@@ -49,4 +50,6 @@
 [Computers and Electrical Engineering]: <https://www.sciencedirect.com/journal/computers-and-electrical-engineering>
 
 [Computers and Electronics in Agriculture]: <https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture>
+
+[Multimedia Tools and Applications]: <https://www.springer.com/journal/11042>
 
