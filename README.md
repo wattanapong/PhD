@@ -10,6 +10,7 @@
 - [Information Sciences] CCF-B (Q1, scopus#24)
 - [Artificial Intelligence in Medicine] CCF-C (Q1, scopus#29]
 - [Multimedia Tools and Applications] CCF-C (Q1, scopus#94)
+- [Expert Systems with Applications] CCF-C (Q1, scopus#
 
 ## Education
 - [International Journal of Emerging Technologies in Learning] Miscellaneous Engineering Q1
@@ -53,3 +54,4 @@
 
 [Multimedia Tools and Applications]: <https://www.springer.com/journal/11042>
 
+[Expert Systems with Applications]: <https://www.sciencedirect.com/journal/expert-systems-with-applications>
