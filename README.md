@@ -24,6 +24,10 @@
 ## Agriculture
 - [Computers and Electronics in Agriculture] Q1
 
+## EE
+- [IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING] Q1
+
+
 [//]: # (Reference Set)
 
 [List AI articles]:<https://www.scopus.com/sourceid/24807#tabs=1>
@@ -55,3 +59,5 @@
 [Multimedia Tools and Applications]: <https://www.springer.com/journal/11042>
 
 [Expert Systems with Applications]: <https://www.sciencedirect.com/journal/expert-systems-with-applications>
+
+[IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING]: <https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10050192&punumber=4200690>
