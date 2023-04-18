@@ -10,7 +10,8 @@
 - [Information Sciences] CCF-B (Q1, scopus#24)
 - [Artificial Intelligence in Medicine] CCF-C (Q1, scopus#29]
 - [Multimedia Tools and Applications] CCF-C (Q1, scopus#94)
-- [Expert Systems with Applications] CCF-C (Q1, scopus#
+- [Expert Systems with Applications] CCF-C (Q1, scopus#)
+- [Visual Computer] CCF-C (Q2, scopus#)
 
 ## Education
 - [International Journal of Emerging Technologies in Learning] Miscellaneous Engineering Q1
@@ -61,3 +62,5 @@
 [Expert Systems with Applications]: <https://www.sciencedirect.com/journal/expert-systems-with-applications>
 
 [IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING]: <https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10050192&punumber=4200690>
+
+[Visual Computer]: <https://link.springer.com/journal/371/volumes-and-issues>
