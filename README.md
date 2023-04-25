@@ -12,6 +12,7 @@
 - [Multimedia Tools and Applications] CCF-C (Q1, scopus#94)
 - [Expert Systems with Applications] CCF-C (Q1, scopus#)
 - [Visual Computer] CCF-C (Q2, scopus#)
+- [Engineering Applications of Artificial Intelligence] CCF-C (Q1)
 
 ## Education
 - [International Journal of Emerging Technologies in Learning] Miscellaneous Engineering Q1
@@ -64,3 +65,5 @@
 [IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING]: <https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10050192&punumber=4200690>
 
 [Visual Computer]: <https://link.springer.com/journal/371/volumes-and-issues>
+
+[Engineering Applications of Artificial Intelligence]: <https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence>
