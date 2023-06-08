@@ -13,6 +13,7 @@
 - [Expert Systems with Applications] CCF-C (Q1, scopus#)
 - [Visual Computer] CCF-C (Q2, scopus#)
 - [Engineering Applications of Artificial Intelligence] CCF-C (Q1)
+- [Neural Computing and Applications] Q1
 
 ## Education
 - [International Journal of Emerging Technologies in Learning] Miscellaneous Engineering Q1
@@ -67,3 +68,5 @@
 [Visual Computer]: <https://link.springer.com/journal/371/volumes-and-issues>
 
 [Engineering Applications of Artificial Intelligence]: <https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence>
+
+[Neural Computing and Applications]: <https://www.springer.com/journal/521>
