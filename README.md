@@ -9,13 +9,14 @@
 - [Engineering Applications of Artificial Intelligence] CCF-C (Q1, scopus#32AI)
 - [Applied Intelligence] CCF-C in Netherland (Q1, scopus#86, letpub:6 months, home page 15 days first decision)
 - [Information Sciences] CCF-B (Q1, scopus#24)
-- [Artificial Intelligence in Medicine] CCF-C (Q1, scopus#29]
+- [Artificial Intelligence in Medicine] CCF-C (Q1, scopus#29], Rank 14th in AI Biomed
 - [Multimedia Tools and Applications] CCF-C (Q1, scopus#94)
 - [Expert Systems with Applications] CCF-C (Q1, scopus#)
 - [Visual Computer] CCF-C (Q2, scopus#)
 - [Engineering Applications of Artificial Intelligence] CCF-C (Q1)
 - [Neural Computing and Applications] Q1
 - [Multimedia Tools and Applications] CCF-C (Q1)
+- 
 
 ## Education
 - [International Journal of Emerging Technologies in Learning] Miscellaneous Engineering Q1
@@ -55,7 +56,7 @@
 
 [Data and Knowledge Engineering ]: <https://www.journals.elsevier.com/data-and-knowledge-engineering>
 
-[Artificial Intelligence in Medicine]: <https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine>
+[Artificial Intelligence in Medicine]: <https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine> 
 
 [Computers and Electrical Engineering]: <https://www.sciencedirect.com/journal/computers-and-electrical-engineering>
 
@@ -73,6 +74,7 @@
 
 [Neural Computing and Applications]: <https://www.springer.com/journal/521>
 
+[Journal of Artificial Intelligence and Soft Computing Research]: <https://sciendo.com/journal/JAISCR>
+
 [Multimedia Tools and Applications]: <https://www.springer.com/journal/11042>
 
-[Engineering Applications of Artificial Intelligence]: <https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence>
