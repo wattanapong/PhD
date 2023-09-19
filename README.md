@@ -16,10 +16,10 @@
 - [Engineering Applications of Artificial Intelligence] CCF-C (Q1)
 - [Neural Computing and Applications] Q1
 - [Multimedia Tools and Applications] CCF-C (Q1)
-- 
+
 
 ## Education
-- [International Journal of Emerging Technologies in Learning] Miscellaneous Engineering Q1
+- 
 
 ## Database and Data Mining
 - [Data and Knowledge Engineering] (DKE) CCF-B
@@ -50,7 +50,6 @@
 
 [Applied Intelligence]:<https://www.springer.com/journal/10489/aims-and-scope>
 
-[International Journal of Emerging Technologies in Learning]:<https://online-journals.org/index.php/i-jet/index>
 
 [Information Sciences]:<https://www.sciencedirect.com/journal/information-sciences>
 
