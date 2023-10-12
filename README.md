@@ -17,6 +17,10 @@
 - [Neural Computing and Applications] Q1
 - [Multimedia Tools and Applications] CCF-C (Q1)
 
+## Biomedical Engineering
+- [Journal of Biomedical Informatics] Scopus (Q1) percentile 85%
+- [Computers in Biology and Medicine] Scopus (Q1) percentile 89%
+- [Computer Methods and Programs in Biomedicine] Scopus (Q1) percentile 91%
 
 ## Education
 - 
@@ -76,4 +80,8 @@
 [Journal of Artificial Intelligence and Soft Computing Research]: <https://sciendo.com/journal/JAISCR>
 
 [Multimedia Tools and Applications]: <https://www.springer.com/journal/11042>
+
+[Journal of Biomedical Informatics]:<https://www.sciencedirect.com/journal/journal-of-biomedical-informatics>
+[Computers in Biology and Medicine]:<https://www.sciencedirect.com/journal/computers-in-biology-and-medicine>
+[Computer Methods and Programs in Biomedicine]:<https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine>
 
