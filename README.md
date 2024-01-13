@@ -16,6 +16,7 @@
 - [Engineering Applications of Artificial Intelligence] CCF-C (Q1)
 - [Neural Computing and Applications] Q1
 - [Multimedia Tools and Applications] CCF-C (Q1)
+- [Applied Intelligence] CCF-C (Q2)
 
 ## Biomedical Engineering
 - [Journal of Biomedical Informatics] Scopus (Q1) percentile 85%
@@ -80,6 +81,8 @@
 [Journal of Artificial Intelligence and Soft Computing Research]: <https://sciendo.com/journal/JAISCR>
 
 [Multimedia Tools and Applications]: <https://www.springer.com/journal/11042>
+
+[Applied Intelligence]: <https://link.springer.com/journal/10489>
 
 [Journal of Biomedical Informatics]:<https://www.sciencedirect.com/journal/journal-of-biomedical-informatics>
 [Computers in Biology and Medicine]:<https://www.sciencedirect.com/journal/computers-in-biology-and-medicine>
