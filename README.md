@@ -22,6 +22,7 @@
 - [Journal of Biomedical Informatics] Scopus (Q1) percentile 85%
 - [Computers in Biology and Medicine] Scopus (Q1) percentile 89%
 - [Computer Methods and Programs in Biomedicine] Scopus (Q1) percentile 91%
+- [International Journal of Medical Informatics] Scopus (Q1) percentile 88%
 
 ## Education
 - 
@@ -88,3 +89,4 @@
 [Computers in Biology and Medicine]:<https://www.sciencedirect.com/journal/computers-in-biology-and-medicine>
 [Computer Methods and Programs in Biomedicine]:<https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine>
 
+[International Journal of Medical Informatics]<https://www.sciencedirect.com/journal/international-journal-of-medical-informatics>
