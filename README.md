@@ -89,4 +89,4 @@
 [Computers in Biology and Medicine]:<https://www.sciencedirect.com/journal/computers-in-biology-and-medicine>
 [Computer Methods and Programs in Biomedicine]:<https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine>
 
-[International Journal of Medical Informatics]<https://www.sciencedirect.com/journal/international-journal-of-medical-informatics>
+[International Journal of Medical Informatics]:<https://www.sciencedirect.com/journal/international-journal-of-medical-informatics>
