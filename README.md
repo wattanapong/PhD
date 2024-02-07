@@ -17,6 +17,7 @@
 - [Neural Computing and Applications] Q1
 - [Multimedia Tools and Applications] CCF-C (Q1)
 - [Applied Intelligence] CCF-C (Q2)
+- [Applied Soft Computing] Q(1) 10%
 
 ## Biomedical Engineering
 - [Journal of Biomedical Informatics] Scopus (Q1) percentile 85%
@@ -90,3 +91,5 @@
 [Computer Methods and Programs in Biomedicine]:<https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine>
 
 [International Journal of Medical Informatics]:<https://www.sciencedirect.com/journal/international-journal-of-medical-informatics>
+
+[Applied Soft Computing]: <https://www.sciencedirect.com/journal/applied-soft-computing/issues>
