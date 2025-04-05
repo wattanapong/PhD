@@ -26,6 +26,7 @@
 - [International Journal of Medical Informatics] Scopus (Q1) percentile 88%
 
 ## Education
+- [computer application in engineering education] (Q1) percentile 91%
 - 
 
 ## Database and Data Mining
@@ -33,6 +34,7 @@
 
 ## General Computer Science
 - [Computers and Electrical Engineering] Q1
+- [Journal of Classification] Q1
 
 ## Agriculture
 - [Computers and Electronics in Agriculture] Q1
@@ -93,3 +95,7 @@
 [International Journal of Medical Informatics]:<https://www.sciencedirect.com/journal/international-journal-of-medical-informatics>
 
 [Applied Soft Computing]: <https://www.sciencedirect.com/journal/applied-soft-computing/issues>
+
+[computer application in engineering education]: <https://onlinelibrary.wiley.com/journal/10990542>
+
+[Journal of Classification]: <https://link.springer.com/journal/357>
