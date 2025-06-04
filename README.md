@@ -35,6 +35,7 @@
 ## General Computer Science
 - [Computers and Electrical Engineering] Q1
 - [Journal of Classification] Q1
+- [International Journal of Information Technology] Q1
 
 ## Agriculture
 - [Computers and Electronics in Agriculture] Q1
@@ -99,3 +100,5 @@
 [computer application in engineering education]: <https://onlinelibrary.wiley.com/journal/10990542>
 
 [Journal of Classification]: <https://link.springer.com/journal/357>
+
+[International Journal of Information Technology]: <https://link.springer.com/journal/41870>
