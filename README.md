@@ -22,7 +22,7 @@
 ## Biomedical Engineering
 - [Journal of Biomedical Informatics] Scopus (Q1) percentile 85%
 - [Computers in Biology and Medicine] Scopus (Q1) percentile 89%
-- [Computer Methods and Programs in Biomedicine] Scopus (Q1) percentile 91%
+- [Computer Methods and Programs in Biomedicine] Scopus (Q1) percentile 91%, *Slow (Moderate Novelty)
 - [International Journal of Medical Informatics] Scopus (Q1) percentile 88%
 
 ## Education
