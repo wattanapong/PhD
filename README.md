@@ -43,7 +43,9 @@
 ## EE
 - [IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING] Q1
 
-
+## Software
+- [Neural Computing and Applications] Q1
+- 
 [//]: # (Reference Set)
 
 [List AI articles]:<https://www.scopus.com/sourceid/24807#tabs=1>
@@ -98,6 +100,8 @@
 [Applied Soft Computing]: <https://www.sciencedirect.com/journal/applied-soft-computing/issues>
 
 [computer application in engineering education]: <https://onlinelibrary.wiley.com/journal/10990542>
+
+[Neural Computing and Applications]: <https://link.springer.com/journal/521>
 
 [Journal of Classification]: <https://link.springer.com/journal/357>
 
