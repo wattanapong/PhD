@@ -24,6 +24,7 @@
 - [Computers in Biology and Medicine] Scopus (Q1) percentile 89%
 - [Computer Methods and Programs in Biomedicine] Scopus (Q1) percentile 91%, *Slow (Moderate Novelty)
 - [International Journal of Medical Informatics] Scopus (Q1) percentile 88%
+- [computerized medical imaging and graphics] Scopus (Q1) percentile 95%
 
 ## Education
 - [computer application in engineering education] (Q1) percentile 91%
@@ -100,6 +101,8 @@
 [Applied Soft Computing]: <https://www.sciencedirect.com/journal/applied-soft-computing/issues>
 
 [computer application in engineering education]: <https://onlinelibrary.wiley.com/journal/10990542>
+
+[computerized medical imaging and graphics]: <https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics/vol/119/suppl/C>
 
 [Neural Computing and Applications]: <https://link.springer.com/journal/521>
 
