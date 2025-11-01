@@ -46,7 +46,11 @@
 
 ## Software
 - [Neural Computing and Applications] Q1
-- 
+
+## OA
+- [IAEs international journal of artificial intelligence] Q2
+
+
 [//]: # (Reference Set)
 
 [List AI articles]:<https://www.scopus.com/sourceid/24807#tabs=1>
@@ -109,3 +113,5 @@
 [Journal of Classification]: <https://link.springer.com/journal/357>
 
 [International Journal of Information Technology]: <https://link.springer.com/journal/41870>
+
+[IAEs international journal of artificial intelligence]: <https://ijai.iaescore.com/index.php/IJAI/about/submissions#authorGuidelines>
