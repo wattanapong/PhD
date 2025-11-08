@@ -25,6 +25,7 @@
 - [Computer Methods and Programs in Biomedicine] Scopus (Q1) percentile 91%, *Slow (Moderate Novelty)
 - [International Journal of Medical Informatics] Scopus (Q1) percentile 88%
 - [computerized medical imaging and graphics] Scopus (Q1) percentile 95%
+- [Biomedical Signal Processing and Control] Scopus (Q1) percentile 91%
 
 ## Education
 - [computer application in engineering education] (Q1) percentile 91%
@@ -115,3 +116,5 @@
 [International Journal of Information Technology]: <https://link.springer.com/journal/41870>
 
 [IAEs international journal of artificial intelligence]: <https://ijai.iaescore.com/index.php/IJAI/about/submissions#authorGuidelines>
+
+[Biomedical Signal Processing and Control]: <https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control>
