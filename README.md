@@ -38,6 +38,7 @@
 - [Computers and Electrical Engineering] Q1
 - [Journal of Classification] Q1
 - [International Journal of Information Technology] Q1
+- [Multimedia Systems] Q1
 
 ## Agriculture
 - [Computers and Electronics in Agriculture] Q1
@@ -118,3 +119,5 @@
 [IAEs international journal of artificial intelligence]: <https://ijai.iaescore.com/index.php/IJAI/about/submissions#authorGuidelines>
 
 [Biomedical Signal Processing and Control]: <https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control>
+
+[Multimedia Systems]: <https://link.springer.com/journal/530>
