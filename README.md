@@ -26,7 +26,7 @@
 - [International Journal of Medical Informatics] Scopus (Q1) percentile 88%
 - [computerized medical imaging and graphics] Scopus (Q1) percentile 95%
 - [Biomedical Signal Processing and Control] Scopus (Q1) percentile 91%
-
+- [Journal of the American Medical Directors Association] Scopus (Q1) percentile 97%
 ## Education
 - [computer application in engineering education] (Q1) percentile 91%
 - 
@@ -121,3 +121,5 @@
 [Biomedical Signal Processing and Control]: <https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control>
 
 [Multimedia Systems]: <https://link.springer.com/journal/530>
+
+[Journal of the American Medical Directors Association]: <https://www.sciencedirect.com/journal/journal-of-the-american-medical-directors-association>
