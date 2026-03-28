@@ -48,6 +48,7 @@
 
 ## Software
 - [Neural Computing and Applications] Q1
+- [ Empirical Software Engineering ] Q1
 
 ## OA
 - [IAEs international journal of artificial intelligence] Q2
@@ -117,6 +118,8 @@
 [International Journal of Information Technology]: <https://link.springer.com/journal/41870>
 
 [IAEs international journal of artificial intelligence]: <https://ijai.iaescore.com/index.php/IJAI/about/submissions#authorGuidelines>
+
+[ Empirical Software Engineering ]: <https://link.springer.com/journal/10664>
 
 [Biomedical Signal Processing and Control]: <https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control>
 
