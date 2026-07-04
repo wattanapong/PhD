@@ -18,6 +18,7 @@
 - [Multimedia Tools and Applications] CCF-C (Q1)
 - [Applied Intelligence] CCF-C (Q2)
 - [Applied Soft Computing] Q(1) 10%
+- 
 
 ## Biomedical Engineering
 - [Journal of Biomedical Informatics] Scopus (Q1) percentile 85%
@@ -126,3 +127,7 @@
 [Multimedia Systems]: <https://link.springer.com/journal/530>
 
 [Journal of the American Medical Directors Association]: <https://www.sciencedirect.com/journal/journal-of-the-american-medical-directors-association>
+
+[The Visual Computer]: <https://link.springer.com/journal/371>
+
+[SN Computer Science]: <https://link.springer.com/journal/42979>
