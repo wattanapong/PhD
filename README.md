@@ -18,7 +18,8 @@
 - [Multimedia Tools and Applications] CCF-C (Q1)
 - [Applied Intelligence] CCF-C (Q2)
 - [Applied Soft Computing] Q(1) 10%
-- 
+- [The Visual Computer]: Q1
+- [SN Computer Science]: Q1
 
 ## Biomedical Engineering
 - [Journal of Biomedical Informatics] Scopus (Q1) percentile 85%
