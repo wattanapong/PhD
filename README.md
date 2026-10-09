@@ -54,6 +54,7 @@
 
 ## OA
 - [IAEs international journal of artificial intelligence] Q2
+- [International Journal of Agricultural and Biological Engineering] Q1 
 
 
 [//]: # (Reference Set)
@@ -128,3 +129,5 @@
 [Multimedia Systems]: <https://link.springer.com/journal/530>
 
 [Journal of the American Medical Directors Association]: <https://www.sciencedirect.com/journal/journal-of-the-american-medical-directors-association>
+
+[International Journal of Agricultural and Biological Engineering]: <https://ijabe.org/index.php/ijabe>
